@@ -6,12 +6,16 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "cookie-parser": "~1.4.4",
     "dd-trace": "^0.34.0",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+    "faker": "^5.5.3",
+    "hot-shots": "^8.3.2",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
+    "lodash": "^4.17.21",
     "morgan": "~1.9.1"
   }
 }
